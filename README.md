@@ -18,7 +18,7 @@ English | [简体中文](https://github.com/CocoNodeJs/TU-IMG/blob/main/README_C
 
 ![Sudden Rain and Heavy Mountains Image Hosting](https://uxiaohan.github.io/v2/2024/12/1733291366.webp)
 
-[Click to experience Demo](https://wp-cdn.4ce.cn/)
+[Click to experience Demo](https://wp-cdn.wdun.net/)
 
 ## How to deploy
 
