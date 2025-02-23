@@ -6,7 +6,7 @@
         <p class="pt-2">无限图片储存数量，你可以上传不限数量的图片！</p>
         <p>图片首次访问后缓存，"永久"有效，包括全球分布的 CDN，以确保尽可能快地提供图像.</p>
         <p>Coco图床 是 <a class="text-slate-400" href="https://zc.tn" target="_blank" title="Coco主页">Coco主页</a> 支持并维护的文件上传项目，致力于为用户提供稳定的永久存储服务。</p>
-        <p style="font-weight: bold">博客: <a class="text-[#0969da]" href="https://bypass.xin/" target="_blank">ZYCS-IMG</a></p>
+        <p style="font-weight: bold">博客: <a class="text-[#0969da]" href="https://bypass.xin/" target="_blank">Coco-IMG</a></p>
       </AlertDescription>
     </Alert>
 
